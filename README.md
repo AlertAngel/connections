@@ -47,3 +47,12 @@
 | GND | GND |
 | S | GPIO27 |
 
+
+## Buzzer 
+
+| Buzzer | ESP32 |
+| -------------- | --------------- |
+| VCC/Vin | 3v3 |
+| GND | GND |
+| OUT | GPIO26 |
+
