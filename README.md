@@ -7,11 +7,11 @@
 |--------------- | --------------- |
 | VCC  | 3v3   |
 | GND   | GND   |
-| CS   | GPIO15 |
-| RESET   | GPIO04 |
-| DC | GPIO2 |
-| MOSI | GPIO23 |
-| SCK | GPIO18 |
+| CS   | GPIO09 (D9) |
+| RESET   | GPIO08 (D8) |
+| DC | GPIO2 (D2) |
+| MOSI | GPIO06 (MO) (Pin number 24) |
+| SCK | GPIO10 (SCK) (Pin number 23) |
 | LED | 3v3 |
 
 
